@@ -1,0 +1,15 @@
+C:\Users\apoll\source\repos\WPF_no_2\WPF_no_2\bin\Debug\WPF_no_2.exe.config
+C:\Users\apoll\source\repos\WPF_no_2\WPF_no_2\bin\Debug\WPF_no_2.exe
+C:\Users\apoll\source\repos\WPF_no_2\WPF_no_2\bin\Debug\WPF_no_2.pdb
+C:\Users\apoll\source\repos\WPF_no_2\WPF_no_2\obj\Debug\WPF_no_2.csprojAssemblyReference.cache
+C:\Users\apoll\source\repos\WPF_no_2\WPF_no_2\obj\Debug\MainWindow.g.cs
+C:\Users\apoll\source\repos\WPF_no_2\WPF_no_2\obj\Debug\App.g.cs
+C:\Users\apoll\source\repos\WPF_no_2\WPF_no_2\obj\Debug\WPF_no_2_MarkupCompile.cache
+C:\Users\apoll\source\repos\WPF_no_2\WPF_no_2\obj\Debug\WPF_no_2_MarkupCompile.lref
+C:\Users\apoll\source\repos\WPF_no_2\WPF_no_2\obj\Debug\MainWindow.baml
+C:\Users\apoll\source\repos\WPF_no_2\WPF_no_2\obj\Debug\WPF_no_2.g.resources
+C:\Users\apoll\source\repos\WPF_no_2\WPF_no_2\obj\Debug\WPF_no_2.Properties.Resources.resources
+C:\Users\apoll\source\repos\WPF_no_2\WPF_no_2\obj\Debug\WPF_no_2.csproj.GenerateResource.cache
+C:\Users\apoll\source\repos\WPF_no_2\WPF_no_2\obj\Debug\WPF_no_2.csproj.CoreCompileInputs.cache
+C:\Users\apoll\source\repos\WPF_no_2\WPF_no_2\obj\Debug\WPF_no_2.exe
+C:\Users\apoll\source\repos\WPF_no_2\WPF_no_2\obj\Debug\WPF_no_2.pdb
